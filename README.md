@@ -1,8 +1,14 @@
-# Full-Stack Starter
 
-This repository contains a "starter" project for web application development in JavaScript.
+# Bulga
+  Chuck Lui
+  Demere Smith 
+  Rene Ramirez 
+  Disheng Wang
 
-## One-time Setup
+## introduction
+  This Bulga app is a budgetting app that help people track thier spendings. It also have an optional saving goal that can help young adults to get the laptop.
+
+## One-time Setup 
 
 1. On Github, "Fork" this git repo to your own account so that you have your own copy.
 
